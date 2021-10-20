@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Robot Code Stuff (in project Robot Code Stuff)",
+    "file": "C:\\Users\\EPICUser\\Documents\\FRC 2021 Fall\\Robot Code Stuff\\build\\libs\\Robot Code Stuff.jar",
+    "extensions": [
+      "C:\\Users\\EPICUser\\Documents\\FRC 2021 Fall\\Robot Code Stuff\\build\\tmp\\expandedArchives\\halsim_gui-2021.3.1-windowsx86-64.zip_323ba05d82fed35fbc1ea2c04141a0a5\\windows\\x86-64\\shared\\halsim_gui.dll",
+      "C:\\Users\\EPICUser\\Documents\\FRC 2021 Fall\\Robot Code Stuff\\build\\tmp\\expandedArchives\\halsim_ds_socket-2021.3.1-windowsx86-64.zip_5f77b11b08590618ca2ba5550844833c\\windows\\x86-64\\shared\\halsim_ds_socket.dll"
+    ],
+    "env": {},
+    "librarydir": "C:\\Users\\EPICUser\\Documents\\FRC 2021 Fall\\Robot Code Stuff\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
